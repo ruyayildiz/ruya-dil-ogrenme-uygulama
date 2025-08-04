@@ -1,0 +1,1 @@
+// Gelecekte yapay zeka destekli geri bildirimler buraya eklenecek
